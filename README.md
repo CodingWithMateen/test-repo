@@ -1,2 +1,2 @@
 # Test Repo
-~~ I am testing my repo. ~~
+*I am testing my repo.*
